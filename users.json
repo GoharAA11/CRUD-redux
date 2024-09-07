@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "id": "102",
+            "name": "Aram",
+            "surname": "Hayrapetyan",
+            "age": "20",
+            "salary": "500000"
+        },
+        {
+            "id": "103",
+            "name": "Karen",
+            "surname": "Minasyan",
+            "age": "35",
+            "salary": "350000"
+        },
+        {
+            "id": "104",
+            "name": "Mane",
+            "surname": "Mkrtchyan",
+            "age": "40",
+            "salary": "440000"
+        },
+        {
+            "id": "105",
+            "name": "Ani",
+            "surname": "Aramyan",
+            "age": "25",
+            "salary": "258000"
+        },
+        {
+            "id": "101",
+            "name": "Alvard",
+            "surname": "Avagyan ",
+            "age": "25",
+            "salary": "350000"
+        }
+    ]
+}
